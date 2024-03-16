@@ -19,16 +19,16 @@ ERP System is a web application designed to provide businesses with a comprehens
 
 To run the ERP System locally, follow these steps:
 
-# Clone the repository
-git clone git clone git@github.com:mujahid411/erp_system.git
+### Clone the repository
+git clone git@github.com:mujahid411/erp_system.git
 
-# Navigate to the project directory
+### Navigate to the project directory
 cd erp_system
 
-# Install dependencies
+### Install dependencies
 npm install
 
-# Start the development server
+### Start the development server
 npm start
 
 Open your browser and navigate to `http://localhost:3000`
